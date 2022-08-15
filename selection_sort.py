@@ -1,4 +1,4 @@
-### O(n2)
+### T: O(n2) S: O(1)
 
 
 def find_smallest_index(arr):

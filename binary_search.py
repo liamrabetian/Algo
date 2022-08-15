@@ -1,4 +1,4 @@
-### O(log(n))
+### T: O(log(n)) S: O(1)
 
 
 def binary_search(l, item):
